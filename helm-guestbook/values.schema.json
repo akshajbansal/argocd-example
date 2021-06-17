@@ -9,7 +9,9 @@
             "type": "object",
             "properties": {
                 "pullPolicy": {
-                    "type": "string"
+                    "type": "string",
+                    "displayName": "image pull policy",
+                    "description": "it is an image pull policy"
                 },
                 "repository": {
                     "type": "string"
