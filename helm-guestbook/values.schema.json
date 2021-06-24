@@ -18,6 +18,10 @@
                 },
                 "tag": {
                     "type": "number"
+                },
+                "password": {
+                    "type": "string",
+                    "format": "password"
                 }
             }
         },
